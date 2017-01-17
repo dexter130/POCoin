@@ -25,6 +25,6 @@ Clone:
 `git clone https://github.com/dexter130/POCoin.git`
 
 Compile POCoin Daemon (Ubuntu 14.04 LTS 64 bit):  
-`cd POCoin` 
-`chmod 755 src/leveldb/build_detect_platform`   
+`cd POCoin`  
+`chmod 755 src/leveldb/build_detect_platform`    
 `make -f makefile.unix USE_UPNP=-`
