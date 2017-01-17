@@ -22,7 +22,7 @@ Dependencies:
 `apt-get install ntp git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev`
 
 Clone:  
-`git clone https://github.com/dexter130/POCoin`
+`git clone https://github.com/dexter130/POCoin.git`
 
 Compile POCoin Daemon (Ubuntu 14.04 LTS 64 bit):  
 `cd pocoin`  
