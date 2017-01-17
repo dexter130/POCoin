@@ -1,3 +1,7 @@
+# POCoin
+
+===========================================
+
 Scrypt coin made for educational purposes. 
 
 ===========================================
@@ -24,13 +28,13 @@ P2P Port:				56884
 Compile Instructies: 
 
 Dependencies: 
-apt-get install ntp git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev
+`apt-get install ntp git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev`
 
 Clone:
-git clone pocoin
+`git clone pocoin`
 
-Compile:
+Compile POCoin Daemon (Ubuntu 14.04 LTS 64 bit):
 cd pocoin
-make -f makefile.unix USE_UPNP=-
+`make -f makefile.unix USE_UPNP=-`
 
 ===========================================
