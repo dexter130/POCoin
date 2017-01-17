@@ -1,0 +1,9 @@
+Building POcoin
+
+See doc/readme-qt.rst for instructions on building POcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of POcoin.
+
+See doc/build-*.txt for instructions on building pocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of POcoin.
