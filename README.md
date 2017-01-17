@@ -1,7 +1,6 @@
 # POCoin
 
-Scrypt coin made for educational purposes. 
-
+Scrypt coin made for educational purposes.  
 ===========================================
 
 Adres prefix: p  
@@ -25,5 +24,5 @@ Clone:
 `git clone pocoin`
 
 Compile POCoin Daemon (Ubuntu 14.04 LTS 64 bit):  
-`cd pocoin`
+`cd pocoin`  
 `make -f makefile.unix USE_UPNP=-`
