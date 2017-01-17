@@ -1,6 +1,7 @@
 # POCoin
 
-Scrypt coin made for educational purposes.  
+Scrypt coin made for educational purposes.
+ 
 ===========================================
 
 Adres prefix: p  
@@ -17,7 +18,7 @@ P2P Port:				56884
 ===========================================
 
 ### Compile Instructies: 
-Dependencies: 
+Dependencies:  
 `apt-get install ntp git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev`
 
 Clone:  
